@@ -1,0 +1,7 @@
+{
+  "name": "ArthaSync: Professional Income & Expense Manager",
+  "description": "A robust local-first financial management system for individuals, businesses, and farms with real-time analytics, AI insights, and multi-language support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
